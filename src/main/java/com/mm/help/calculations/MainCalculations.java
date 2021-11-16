@@ -1,12 +1,11 @@
-package com.mm.help.calculations;
-
-import com.mm.help.initializer.PrimaryDataInitializer;
-import com.mm.help.model.PrimaryData;
-
-import java.math.BigDecimal;
+package main.java.com.mm.help.calculations;
 
 import static java.math.BigDecimal.ROUND_CEILING;
 import static java.math.BigDecimal.ROUND_HALF_UP;
+
+import java.math.BigDecimal;
+import main.java.com.mm.help.initializer.PrimaryDataInitializer;
+import main.java.com.mm.help.model.PrimaryData;
 
 public class MainCalculations {
 

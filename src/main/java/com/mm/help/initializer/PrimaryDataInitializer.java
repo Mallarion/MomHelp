@@ -1,8 +1,7 @@
-package com.mm.help.initializer;
-
-import com.mm.help.model.PrimaryData;
+package main.java.com.mm.help.initializer;
 
 import java.util.Scanner;
+import main.java.com.mm.help.model.PrimaryData;
 
 public class PrimaryDataInitializer {
 

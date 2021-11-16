@@ -1,6 +1,6 @@
-package com.mm.help;
+package main.java.com.mm.help;
 
-import com.mm.help.calculations.MainCalculations;
+import main.java.com.mm.help.calculations.MainCalculations;
 
 public class Main {
 
